@@ -26,8 +26,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "231118011-audit-forge"
+        "projectId": "59bd1c95-dc58-4e25-b6c8-4dcf31e9d40f"
       }
-    }
+    },
+    "owner": "farukkemree"
   }
 }

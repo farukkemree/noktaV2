@@ -8,6 +8,7 @@ Track choice: **Track A - Sadelik**. This submission keeps the audit package as 
 
 - Expo Go link: `expo-go://exp.host/@farukkemree/nokta-audit-forge-231118011`
 - EAS / Expo project reference: https://expo.dev/accounts/farukkemree/projects/nokta-audit-forge-231118011
+- Latest Android APK build: https://expo.dev/accounts/farukkemree/projects/nokta-audit-forge-231118011/builds/37da0889-ee47-4e3f-b2a5-30b7b79add2c
 
 ## 60 Second Demo
 
