@@ -17,8 +17,8 @@ export function NoktaScreen({ route }: Props) {
           {tabs.map((tab) => {
             const active = tab.href === route;
             return (
-              <Link key={tab.href} href={tab.href} asChild>
-                <Text style={[styles.tab, active && styles.activeTab]}>{tab.label}</Text>
+              <Link key={tab.href} href={tab.href} style={StyleSheet.flatten([styles.tab, active && styles.activeTab])}>
+                {tab.label}
               </Link>
             );
           })}
