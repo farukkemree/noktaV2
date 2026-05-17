@@ -6,13 +6,13 @@ Track choice: **Track A - Sadelik**. This submission keeps the audit package as 
 
 ## Expo QR / Link
 
-- Expo Go link: `expo-go://exp.host/@farukkemree/nokta-audit-forge-231118011`
+- Expo Go link: `expo-go://u.expo.dev/59bd1c95-dc58-4e25-b6c8-4dcf31e9d40f?channel-name=main`
 - EAS / Expo project reference: https://expo.dev/accounts/farukkemree/projects/nokta-audit-forge-231118011
-- Latest Android APK build: https://expo.dev/accounts/farukkemree/projects/nokta-audit-forge-231118011/builds/37da0889-ee47-4e3f-b2a5-30b7b79add2c
+- Latest Android APK build: https://expo.dev/accounts/farukkemree/projects/nokta-audit-forge-231118011/builds/b9c13cc9-6ab5-4fb0-a882-37047a670bbd
 
 ## 60 Second Demo
 
-- Demo video link: https://youtu.be/-7e9YcPTN-U
+- Demo video link: https://www.youtube.com/watch?v=UYkzabHiRl8
 - Local demo artifact note: `demo/` is reserved for the recorded walkthrough export.
 
 ## What Is Included
@@ -38,8 +38,8 @@ Track choice: **Track A - Sadelik**. This submission keeps the audit package as 
 Total: **4**.
 
 - Picked Track A and the `231118011-faruk-emre-ok` submission folder.
-- Approved the existing demo video URL as the public video reference.
-- Kept the pre-existing real APK binary because the local Android toolchain is unavailable.
+- Recorded and attached the final public YouTube demo video.
+- Rebuilt the APK through EAS because the local Android toolchain is unavailable.
 - Final review before PR creation is intentionally left for the student.
 
 ## AI Tool Log
